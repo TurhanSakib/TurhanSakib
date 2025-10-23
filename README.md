@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Turhan.
 
-## 🚀 Competitive Programmer
+## 🚀 Problem Solver | AI Enthusiast
 
 I solve problems and compete on various coding platforms!
 
