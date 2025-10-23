@@ -38,7 +38,7 @@ I solve problems and compete on various coding platforms!
 
 ## 📫 Connect With Me
 
-DM: https://www.linkedin.com/in/turhansakib/
+DM: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
 ---
 
 *Keep coding, keep growing and never give up!* 💪
