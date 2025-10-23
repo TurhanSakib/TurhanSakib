@@ -38,8 +38,7 @@ I solve problems and compete on various coding platforms!
 
 ## 📫 Connect With Me
 
-Feel free to reach out for discussions on competitive programming!
-
+DM: https://www.linkedin.com/in/turhansakib/
 ---
 
 *Keep coding, keep growing and never give up!* 💪
